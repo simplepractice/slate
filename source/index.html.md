@@ -27,7 +27,7 @@ Private APIs are meant to be only used internally.
 - [Frontend](frontend/index.html)
   Frontend APIs used by the EmberJS frontend app
 - [Marketing](marketing/index.html)
-  Used by the marketing website.
+  Used by the marketing website
 
 ## Service
 
